@@ -1856,21 +1856,10 @@ body {
 .cid-rtYw1oX9AV H5 {
   color: #522411;
 }
-.cid-rtYOa6zQMR {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rtYOa6zQMR .mbr-section-subtitle {
-  color: #522411;
-}
-.cid-rtYOa6zQMR H2 {
-  color: #522411;
-}
 .cid-rtZ8KyS2Cz {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/beaver-mmt80-mini-skid-steer-loader-for-960x717.jpg");
+  padding-bottom: 0px;
+  background-color: #fffbc8;
 }
 .cid-rtZ8KyS2Cz H2 {
   color: #522411;
@@ -1985,6 +1974,17 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #fffbc8;
+}
+.cid-rtYOa6zQMR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rtYOa6zQMR .mbr-section-subtitle {
+  color: #522411;
+}
+.cid-rtYOa6zQMR H2 {
+  color: #522411;
 }
 .cid-rtZ9v848ls {
   padding-top: 60px;
